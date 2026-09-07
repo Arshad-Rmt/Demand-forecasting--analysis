@@ -1,0 +1,22 @@
+# Python virtual environment
+my4venv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Jupyter
+.ipynb_checkpoints/
+
+# IDE
+.vscode/
+.idea/
+
+# Generated data
+data/*.csv
+
+# Generated plots
+data/*.png
+
+# Environment variables
+.env
