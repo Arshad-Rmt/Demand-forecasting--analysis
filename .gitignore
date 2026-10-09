@@ -20,3 +20,6 @@ data/*.png
 
 # Environment variables
 .env
+data.zip
+
+models/xgboost_demand_model.json
